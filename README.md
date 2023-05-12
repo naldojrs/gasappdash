@@ -1,16 +1,18 @@
 # Select Language: English/[Portuguese](/README-pt.md)
 
-# Gas Station App Use Profile Dashboard
+# Gas Stations' App Use Profile Dashboard
 
 This repository contains an Excel Dashboard for analyzing the profile of the use of discount/advantage apps at gas stations. The goal is to transform the data collected in a survey into useful information and insights to aid in strategic decision-making.
 
 ## Repository Structure
+
 .
-├── dados
-│   └── raw.csv
-├── dashboard.xlsx
-├── README.md
-└── README-pt.md
+├── data                    
+│   └── raw.csv             # Raw survey data       
+├── dashboard.xlsx          # Excel Dashboard
+├── LICENSE                 # MIT License
+├── README.md               # README in English
+└── README-pt.md            # README in Portuguese
 
 ## How to Use
 
