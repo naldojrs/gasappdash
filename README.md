@@ -8,7 +8,7 @@ This repository contains an Excel Dashboard for analyzing the profile of the use
 
 .
 ├── data                    
-│   └── raw.csv             # Raw survey data       
+│   └── raw.csv             # Raw survey data
 ├── dashboard.xlsx          # Excel Dashboard
 ├── LICENSE                 # MIT License
 ├── README.md               # README in English
