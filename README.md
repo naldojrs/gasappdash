@@ -33,7 +33,7 @@ Tiago Almani</br>
 
 2. **Dashboard (`dashboard.xlsx`):** Here, you will find the Excel dashboard. It is set up to read the survey data directly from the CSV file. Simply open the file to view the charts and analyses automatically.
 
-3. **Dashboard (`dashboard.pbix`):** Here, you will find the Power BI dashboard. It is set up to read the survey data directly from the Google Forms.
+3. **Dashboard (`/Powe BI/ipiDados_V1.pbix`):** Here, you will find the Power BI dashboard. It is set up to read the survey data directly from the Google Forms.
 
 
 ## License
