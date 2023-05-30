@@ -18,11 +18,11 @@ Tiago Almani</br>
 
 ## How to Use
 
-1. **Survey Data [Raw](data/raw.csv):** Here, you will find the raw data collected in the survey. Each row represents an individual response, and the columns correspond to the questions asked.
+1. **[Survey Data](data/raw.csv):** Here, you will find the raw data collected in the survey. Each row represents an individual response, and the columns correspond to the questions asked.
 
-2. **Dashboard [Dashboard - Excel](dashboard.xlsm):** Here, you will find the Excel dashboard. It is set up to read the survey data directly from the CSV file. Simply open the file to view the charts and analyses automatically.
+2. **[Dashboard](dashboard.xlsm):** Here, you will find the Excel dashboard. It is set up to read the survey data directly from the CSV file. Simply open the file to view the charts and analyses automatically.
 
-3. **Dashboard PowerBI [Power BI](powerbi/ipiDados.pbix):** Here, you will find the Power BI dashboard. It is set up to read the survey data directly from the Google Forms.
+3. **[Dashboard Power BI](powerbi/ipiDados.pbix):** Here, you will find the Power BI dashboard. It is set up to read the survey data directly from the Google Forms.
 
 ## Project Links:
 
