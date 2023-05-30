@@ -6,14 +6,14 @@ Este repositório contém um Dashboard em Excel para análise do perfil de uso d
 
 ## Integrantes da Equipe:
 
-Allyssia Nascimento </br>
-Cristiane Giglio Lamas</br>
-Erick Souza</br>
-Fernanda Oliveira</br>
-Gabriel Procópio</br>
-Jeverson Santos</br>
-Josinaldo Rodrigues dos Santos</br>
-Tiago Almani</br>
+* Allyssia Nascimento </br>
+* Cristiane Giglio Lamas</br>
+* Erick Souza</br>
+* Fernanda Oliveira</br>
+* Gabriel Procópio</br>
+* Jeverson Santos</br>
+* Josinaldo Rodrigues dos Santos</br>
+* Tiago Almani</br>
 
 ## Como usar
 
