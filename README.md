@@ -7,14 +7,14 @@ This repository contains an Excel Dashboard for analyzing the profile of the use
 
 ## Team Members:
 
-Allyssia Nascimento </br>
-Cristiane Giglio Lamas</br>
-Erick Souza</br>
-Fernanda Oliveira</br>
-Gabriel Procópio</br>
-Jeverson Santos</br>
-Josinaldo Rodrigues dos Santos</br>
-Tiago Almani</br>
+* Allyssia Nascimento </br>
+* Cristiane Giglio Lamas</br>
+* Erick Souza</br>
+* Fernanda Oliveira</br>
+* Gabriel Procópio</br>
+* Jeverson Santos</br>
+* Josinaldo Rodrigues dos Santos</br>
+* Tiago Almani</br>
 
 ## How to Use
 
