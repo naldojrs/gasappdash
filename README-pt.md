@@ -17,7 +17,7 @@ Tiago Almani</br>
 
 ## Como usar
 
-1. **Dados Brutos [Raw] (data/raw.csv):** Aqui você encontrará os dados brutos coletados na pesquisa. Cada linha representa uma resposta individual e as colunas correspondem às perguntas feitas.
+1. **Dados Brutos [Raw](data/raw.csv):** Aqui você encontrará os dados brutos coletados na pesquisa. Cada linha representa uma resposta individual e as colunas correspondem às perguntas feitas.
 
 2. **Dashboard [Dashboard - Excel](dashboard.xlsm):** Aqui você encontrará o Dashboard em Excel. Ele está configurado para ler os dados da pesquisa diretamente do arquivo CSV. Basta abrir o arquivo para visualizar os gráficos e análises automaticamente.
 
