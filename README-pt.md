@@ -15,25 +15,13 @@ Jeverson Santos</br>
 Josinaldo Rodrigues dos Santos</br>
 Tiago Almani</br>
 
-
-## Estrutura do Repositório
-
-.
-├── data                    
-│   └── raw.csv             # Dados brutos da pesquisa       
-├── dashboard.xlsx          # Dashboard em Excel
-├── dashboard BI            # Dashboard em Power BI
-├── LICENSE                 # Licença MIT
-├── README.md               # README em Inglês
-└── README-pt.md            # README em Português
-
 ## Como usar
 
 1. **Dados Brutos (`/data/raw.csv`):** Aqui você encontrará os dados brutos coletados na pesquisa. Cada linha representa uma resposta individual e as colunas correspondem às perguntas feitas.
 
-2. **Dashboard (`dashboard.xlsx`):** Aqui você encontrará o Dashboard em Excel. Ele está configurado para ler os dados da pesquisa diretamente do arquivo CSV. Basta abrir o arquivo para visualizar os gráficos e análises automaticamente.
+2. **Dashboard (`dashboard.xlsm`):** Aqui você encontrará o Dashboard em Excel. Ele está configurado para ler os dados da pesquisa diretamente do arquivo CSV. Basta abrir o arquivo para visualizar os gráficos e análises automaticamente.
 
-3. **Dashboard ('dashboard.pbix'):** Aqui você encontrará o Dashboard em Power BI. Ele está configurado para ler os dados da pesquisa diretamente do Google Forms.
+3. **Dashboard PowerBI (`/powerbi/ipiDados_V1.pbix`):** Aqui você encontrará o Dashboard em Power BI. Ele está configurado para ler os dados da pesquisa diretamente do Google Forms.
 
 ## Licença
 

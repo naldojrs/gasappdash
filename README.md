@@ -16,24 +16,13 @@ Jeverson Santos</br>
 Josinaldo Rodrigues dos Santos</br>
 Tiago Almani</br>
 
-## Repository Structure
-
-.
-├── data                    
-│   └── raw.csv             # Raw survey data
-├── dashboard.xlsx          # Excel Dashboard
-├── dashboard BI            # Dashboard em Power BI
-├── LICENSE                 # MIT License
-├── README.md               # README in English
-└── README-pt.md            # README in Portuguese
-
 ## How to Use
 
 1. **Survey Data (`/data/raw.csv`):** Here, you will find the raw data collected in the survey. Each row represents an individual response, and the columns correspond to the questions asked.
 
-2. **Dashboard (`dashboard.xlsx`):** Here, you will find the Excel dashboard. It is set up to read the survey data directly from the CSV file. Simply open the file to view the charts and analyses automatically.
+2. **Dashboard (`dashboard.xlsm`):** Here, you will find the Excel dashboard. It is set up to read the survey data directly from the CSV file. Simply open the file to view the charts and analyses automatically.
 
-3. **Dashboard (`/Powe BI/ipiDados_V1.pbix`):** Here, you will find the Power BI dashboard. It is set up to read the survey data directly from the Google Forms.
+3. **Dashboard PowerBI (`/powerbi/ipiDados_V1.pbix`):** Here, you will find the Power BI dashboard. It is set up to read the survey data directly from the Google Forms.
 
 
 ## License
